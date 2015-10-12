@@ -1,2 +1,2 @@
 # buildnumber-maven-test
-Test Git functionality of buildnumber mojo
+Test Git functionality of buildnumber mojo.

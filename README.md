@@ -57,3 +57,9 @@ Or try a untracked file:
     4980 [INFO] BUILD SUCCESS
 
 Which is not expected.
+
+## Testing snapshot
+
+In order to test the upcoming 1.4 version you need to install it locally and run:
+
+    buildnumber-maven-test> mvn validate -Dversion.buildnumber=1.4-SNAPSHOT
